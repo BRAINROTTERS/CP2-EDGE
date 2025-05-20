@@ -7,13 +7,13 @@ Grupo- Guiherme Amaral,Enrico Bagli,Rafael Moraes,Matheus Antunez,Joao Cazzarine
  servindo principalmente para o monitoramento dos vinhos e alertar caso haja alguma deturpacao avisando o usuario sobre o problema vindo da luminosidade ou umidade o temperatura.
 
  Dependencias (hardware):
- fios-18x
- resistores-3x 1k onw
- arduino uno-1x
- leds-3x
- buzzer-1x
- sensor dht11-1x
- fotoressistor-1x
+ fios-18x/
+ resistores-3x 1k onw/
+ arduino uno-1x/
+ leds-3x/
+ buzzer-1x/
+ sensor dht11-1x/
+ fotoressistor-1x/
  rtc-1x
  
  Depedencias (software):
