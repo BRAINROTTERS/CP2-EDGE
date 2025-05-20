@@ -15,14 +15,24 @@ Grupo- Guiherme Amaral,Enrico Bagli,Rafael Moraes,Matheus Antunez,Joao Cazzarine
  sensor dht11-1x
  fotoressistor-1x
  rtc-1x
+ 
  Depedencias (software):
  LiquidCrystal I2C
 RTClib
 DHT sensor library
+
+
 Como reproduzilo:
+
+
 Estrtura e ligacoes:https://wokwi.com/projects/431427074556541953
 
+
+
 Codigo:
+
+
+
 // Inclusão das bibliotecas necessárias
 #include <Wire.h>              // Comunicação I2C
 #include <LiquidCrystal_I2C.h> // Controle do display LCD via I2C
